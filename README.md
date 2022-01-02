@@ -1,6 +1,4 @@
-# new!  brief Manual 
-
-# Sudoku_Solver_Generator
+# Sudoku_Solver_Generator  brief Manual
 ![GNPX](/images/GNPX_start.png)
 
 Sudoku analysis and generation C# program.
