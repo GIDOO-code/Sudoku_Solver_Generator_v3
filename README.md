@@ -1,5 +1,5 @@
 # Sudoku_Solver_Generator  brief Manual
-![GNPX](/images/GNPX_start.png)
+![GNPX](/images/NPX_start.png)
 
 Sudoku analysis and generation C# program.
 The only algorithm used is non-backtracking.  
