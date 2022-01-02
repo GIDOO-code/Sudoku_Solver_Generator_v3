@@ -17,14 +17,12 @@ https://gidoo-code.github.io/Sudoku_Solver_Generator/
 https://gidoo-code.github.io/Sudoku_Solver_Generator_jp/
 
 
-# For simple version:
-
+# For simple version
   You can change from the regular version to the simplified version.
   For consistency with the regular version, there are some unnecessary but unchanged parts.
 
 
 ## How to change the version ( Regular version -> Simple version )
-
     (1) Remove "RegularVersion" from the conditional compilation symbol field.
 
     (2) Exclude the source files in the folder with "nnEx" in the name from the project.
