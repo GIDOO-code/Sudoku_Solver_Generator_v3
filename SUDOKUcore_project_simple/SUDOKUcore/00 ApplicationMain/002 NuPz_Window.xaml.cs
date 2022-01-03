@@ -26,7 +26,7 @@ using DColor = System.Drawing.Color;
 
 using GIDOOCV;
 using GIDOO_space;
-    
+
 
 
 
