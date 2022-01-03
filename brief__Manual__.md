@@ -20,7 +20,7 @@ In addition, can also input a file with difficulty etc. as an option.
 ...3.9...3.......564.....89.........89..2..51..6.5.8..5.1...7.8.3.5.4.2.7..1.2..3  
 4....9.5.23..58.67...4.7.........3253.2....8.5.1...7.....89....9......7..1.72..46 
 ```
-
+ 
 ## Save File
 Save all Sudoku puzzles as files.  
 There are several options. Also, output a list of difficulty levels, solution methods, etc.
