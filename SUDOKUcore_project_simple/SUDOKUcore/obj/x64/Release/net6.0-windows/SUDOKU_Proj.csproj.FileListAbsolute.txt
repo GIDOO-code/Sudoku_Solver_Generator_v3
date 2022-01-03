@@ -1,0 +1,96 @@
+E:\◆◆数独集合体\■■SuDoKu22 EnglishCore\SUDOKU_App\net6.0-windows\SUDOKU_Regular.exe
+E:\◆◆数独集合体\■■SuDoKu22 EnglishCore\SUDOKU_App\net6.0-windows\SUDOKU_Regular.deps.json
+E:\◆◆数独集合体\■■SuDoKu22 EnglishCore\SUDOKU_App\net6.0-windows\SUDOKU_Regular.runtimeconfig.json
+E:\◆◆数独集合体\■■SuDoKu22 EnglishCore\SUDOKU_App\net6.0-windows\SUDOKU_Regular.dll
+E:\◆◆数独集合体\■■SuDoKu22 EnglishCore\SUDOKU_App\net6.0-windows\ref\SUDOKU_Regular.dll
+E:\◆◆数独集合体\■■SuDoKu22 EnglishCore\SUDOKU_App\net6.0-windows\SUDOKU_Regular.pdb
+E:\◆◆数独集合体\■■SuDoKu22 EnglishCore\SUDOKU_App\net6.0-windows\SUDOKU_Regular.xml
+E:\◆◆数独集合体\■■SuDoKu22 EnglishCore\SUDOKU_App\net6.0-windows\ja-JP\SUDOKU_Regular.resources.dll
+E:\◆◆数独集合体\■■SuDoKu22 EnglishCore\20211203 SUDOKUcore2_project\SUDOKUcore\obj\x64\Release\net6.0-windows\00 ApplicationMain\00Ex ApplicationMain\017 ExtendResult.baml
+E:\◆◆数独集合体\■■SuDoKu22 EnglishCore\20211203 SUDOKUcore2_project\SUDOKUcore\obj\x64\Release\net6.0-windows\00 ApplicationMain\00Ex ApplicationMain\018 DevelopWin.baml
+E:\◆◆数独集合体\■■SuDoKu22 EnglishCore\20211203 SUDOKUcore2_project\SUDOKUcore\obj\x64\Release\net6.0-windows\00 ApplicationMain\014 SDK_PuzzlePrinter.baml
+E:\◆◆数独集合体\■■SuDoKu22 EnglishCore\20211203 SUDOKUcore2_project\SUDOKUcore\obj\x64\Release\net6.0-windows\10 Graphics\11 WPFColorPickerLib\30 VisualPrint\PreviewWindow.baml
+E:\◆◆数独集合体\■■SuDoKu22 EnglishCore\20211203 SUDOKUcore2_project\SUDOKUcore\obj\x64\Release\net6.0-windows\10 Graphics\11 WPFColorPickerLib\30 VisualPrint\Style.baml
+E:\◆◆数独集合体\■■SuDoKu22 EnglishCore\20211203 SUDOKUcore2_project\SUDOKUcore\obj\x64\Release\net6.0-windows\10 Graphics\11 WPFColorPickerLib\ColorPicker.baml
+E:\◆◆数独集合体\■■SuDoKu22 EnglishCore\20211203 SUDOKUcore2_project\SUDOKUcore\obj\x64\Release\net6.0-windows\Styles\ComboBoxStyle.baml
+E:\◆◆数独集合体\■■SuDoKu22 EnglishCore\20211203 SUDOKUcore2_project\SUDOKUcore\obj\x64\Release\net6.0-windows\Styles\DataGridStyle.baml
+E:\◆◆数独集合体\■■SuDoKu22 EnglishCore\20211203 SUDOKUcore2_project\SUDOKUcore\obj\x64\Release\net6.0-windows\Styles\ListBoxStyle.baml
+E:\◆◆数独集合体\■■SuDoKu22 EnglishCore\20211203 SUDOKUcore2_project\SUDOKUcore\obj\x64\Release\net6.0-windows\Styles\ListBoxStyle1.baml
+E:\◆◆数独集合体\■■SuDoKu22 EnglishCore\20211203 SUDOKUcore2_project\SUDOKUcore\obj\x64\Release\net6.0-windows\Styles\ListBoxStyle2.baml
+E:\◆◆数独集合体\■■SuDoKu22 EnglishCore\20211203 SUDOKUcore2_project\SUDOKUcore\obj\x64\Release\net6.0-windows\Styles\TabControlStyle.baml
+E:\◆◆数独集合体\■■SuDoKu22 EnglishCore\20211203 SUDOKUcore2_project\SUDOKUcore\obj\x64\Release\net6.0-windows\Styles\TextBlockStyle.baml
+E:\◆◆数独集合体\■■SuDoKu22 EnglishCore\20211203 SUDOKUcore2_project\SUDOKUcore\obj\x64\Release\net6.0-windows\00 ApplicationMain\002 NuPz_Window.g.cs
+E:\◆◆数独集合体\■■SuDoKu22 EnglishCore\20211203 SUDOKUcore2_project\SUDOKUcore\obj\x64\Release\net6.0-windows\00 ApplicationMain\00Ex ApplicationMain\017 ExtendResult.g.cs
+E:\◆◆数独集合体\■■SuDoKu22 EnglishCore\20211203 SUDOKUcore2_project\SUDOKUcore\obj\x64\Release\net6.0-windows\00 ApplicationMain\00Ex ApplicationMain\018 DevelopWin.g.cs
+E:\◆◆数独集合体\■■SuDoKu22 EnglishCore\20211203 SUDOKUcore2_project\SUDOKUcore\obj\x64\Release\net6.0-windows\00 ApplicationMain\014 SDK_PuzzlePrinter.g.cs
+E:\◆◆数独集合体\■■SuDoKu22 EnglishCore\20211203 SUDOKUcore2_project\SUDOKUcore\obj\x64\Release\net6.0-windows\02 Library Class\G_Control\NumericUpDown.g.cs
+E:\◆◆数独集合体\■■SuDoKu22 EnglishCore\20211203 SUDOKUcore2_project\SUDOKUcore\obj\x64\Release\net6.0-windows\10 Graphics\11 WPFColorPickerLib\30 VisualPrint\PreviewWindow.g.cs
+E:\◆◆数独集合体\■■SuDoKu22 EnglishCore\20211203 SUDOKUcore2_project\SUDOKUcore\obj\x64\Release\net6.0-windows\10 Graphics\11 WPFColorPickerLib\ColorDialog.g.cs
+E:\◆◆数独集合体\■■SuDoKu22 EnglishCore\20211203 SUDOKUcore2_project\SUDOKUcore\obj\x64\Release\net6.0-windows\10 Graphics\11 WPFColorPickerLib\ColorPicker.g.cs
+E:\◆◆数独集合体\■■SuDoKu22 EnglishCore\20211203 SUDOKUcore2_project\SUDOKUcore\obj\x64\Release\net6.0-windows\App.g.cs
+E:\◆◆数独集合体\■■SuDoKu22 EnglishCore\20211203 SUDOKUcore2_project\SUDOKUcore\obj\x64\Release\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+E:\◆◆数独集合体\■■SuDoKu22 EnglishCore\20211203 SUDOKUcore2_project\SUDOKUcore\obj\x64\Release\net6.0-windows\SUDOKU_Regular_MarkupCompile.cache
+E:\◆◆数独集合体\■■SuDoKu22 EnglishCore\20211203 SUDOKUcore2_project\SUDOKUcore\obj\x64\Release\net6.0-windows\SUDOKU_Regular_MarkupCompile.lref
+E:\◆◆数独集合体\■■SuDoKu22 EnglishCore\20211203 SUDOKUcore2_project\SUDOKUcore\obj\x64\Release\net6.0-windows\00 ApplicationMain\002 NuPz_Window.baml
+E:\◆◆数独集合体\■■SuDoKu22 EnglishCore\20211203 SUDOKUcore2_project\SUDOKUcore\obj\x64\Release\net6.0-windows\02 Library Class\G_Control\NumericUpDown.baml
+E:\◆◆数独集合体\■■SuDoKu22 EnglishCore\20211203 SUDOKUcore2_project\SUDOKUcore\obj\x64\Release\net6.0-windows\10 Graphics\11 WPFColorPickerLib\ColorDialog.baml
+E:\◆◆数独集合体\■■SuDoKu22 EnglishCore\20211203 SUDOKUcore2_project\SUDOKUcore\obj\x64\Release\net6.0-windows\SUDOKU_Regular.g.resources
+E:\◆◆数独集合体\■■SuDoKu22 EnglishCore\20211203 SUDOKUcore2_project\SUDOKUcore\obj\x64\Release\net6.0-windows\GNPXcore.Properties.Resources.resources
+E:\◆◆数独集合体\■■SuDoKu22 EnglishCore\20211203 SUDOKUcore2_project\SUDOKUcore\obj\x64\Release\net6.0-windows\GNPXcore.Properties.Resources.ja-JP.resources
+E:\◆◆数独集合体\■■SuDoKu22 EnglishCore\20211203 SUDOKUcore2_project\SUDOKUcore\obj\x64\Release\net6.0-windows\SUDOKU_Proj.csproj.GenerateResource.cache
+E:\◆◆数独集合体\■■SuDoKu22 EnglishCore\20211203 SUDOKUcore2_project\SUDOKUcore\obj\x64\Release\net6.0-windows\SUDOKU_Proj.GeneratedMSBuildEditorConfig.editorconfig
+E:\◆◆数独集合体\■■SuDoKu22 EnglishCore\20211203 SUDOKUcore2_project\SUDOKUcore\obj\x64\Release\net6.0-windows\SUDOKU_Proj.AssemblyInfoInputs.cache
+E:\◆◆数独集合体\■■SuDoKu22 EnglishCore\20211203 SUDOKUcore2_project\SUDOKUcore\obj\x64\Release\net6.0-windows\SUDOKU_Proj.AssemblyInfo.cs
+E:\◆◆数独集合体\■■SuDoKu22 EnglishCore\20211203 SUDOKUcore2_project\SUDOKUcore\obj\x64\Release\net6.0-windows\SUDOKU_Proj.csproj.CoreCompileInputs.cache
+E:\◆◆数独集合体\■■SuDoKu22 EnglishCore\20211203 SUDOKUcore2_project\SUDOKUcore\obj\x64\Release\net6.0-windows\ja-JP\SUDOKU_Regular.resources.dll
+E:\◆◆数独集合体\■■SuDoKu22 EnglishCore\20211203 SUDOKUcore2_project\SUDOKUcore\obj\x64\Release\net6.0-windows\SUDOKU_Regular.dll
+E:\◆◆数独集合体\■■SuDoKu22 EnglishCore\20211203 SUDOKUcore2_project\SUDOKUcore\obj\x64\Release\net6.0-windows\ref\SUDOKU_Regular.dll
+E:\◆◆数独集合体\■■SuDoKu22 EnglishCore\20211203 SUDOKUcore2_project\SUDOKUcore\obj\x64\Release\net6.0-windows\SUDOKU_Regular.pdb
+E:\◆◆数独集合体\■■SuDoKu22 EnglishCore\20211203 SUDOKUcore2_project\SUDOKUcore\obj\x64\Release\net6.0-windows\SUDOKU_Proj.genruntimeconfig.cache
+E:\◆◆数独集合体\■■SuDoKu22 EnglishCore\20211203 SUDOKUcore2_project\SUDOKUcore\obj\x64\Release\net6.0-windows\SUDOKU_Proj.csproj.AssemblyReference.cache
+E:\Git\Sudoku_Solver_Generator_2022\SUDOKU_App\net6.0-windows\SUDOKU_Regular.exe
+E:\Git\Sudoku_Solver_Generator_2022\SUDOKU_App\net6.0-windows\SUDOKU_Regular.deps.json
+E:\Git\Sudoku_Solver_Generator_2022\SUDOKU_App\net6.0-windows\SUDOKU_Regular.runtimeconfig.json
+E:\Git\Sudoku_Solver_Generator_2022\SUDOKU_App\net6.0-windows\SUDOKU_Regular.dll
+E:\Git\Sudoku_Solver_Generator_2022\SUDOKU_App\net6.0-windows\ref\SUDOKU_Regular.dll
+E:\Git\Sudoku_Solver_Generator_2022\SUDOKU_App\net6.0-windows\SUDOKU_Regular.pdb
+E:\Git\Sudoku_Solver_Generator_2022\SUDOKU_App\net6.0-windows\SUDOKU_Regular.xml
+E:\Git\Sudoku_Solver_Generator_2022\SUDOKU_App\net6.0-windows\ja-JP\SUDOKU_Regular.resources.dll
+E:\Git\Sudoku_Solver_Generator_2022\SUDOKUcore_project_simple\SUDOKUcore\obj\x64\Release\net6.0-windows\SUDOKU_Proj.csproj.AssemblyReference.cache
+E:\Git\Sudoku_Solver_Generator_2022\SUDOKUcore_project_simple\SUDOKUcore\obj\x64\Release\net6.0-windows\00 ApplicationMain\014 SDK_PuzzlePrinter.baml
+E:\Git\Sudoku_Solver_Generator_2022\SUDOKUcore_project_simple\SUDOKUcore\obj\x64\Release\net6.0-windows\10 Graphics\11 WPFColorPickerLib\30 VisualPrint\PreviewWindow.baml
+E:\Git\Sudoku_Solver_Generator_2022\SUDOKUcore_project_simple\SUDOKUcore\obj\x64\Release\net6.0-windows\10 Graphics\11 WPFColorPickerLib\30 VisualPrint\Style.baml
+E:\Git\Sudoku_Solver_Generator_2022\SUDOKUcore_project_simple\SUDOKUcore\obj\x64\Release\net6.0-windows\10 Graphics\11 WPFColorPickerLib\ColorPicker.baml
+E:\Git\Sudoku_Solver_Generator_2022\SUDOKUcore_project_simple\SUDOKUcore\obj\x64\Release\net6.0-windows\Styles\ComboBoxStyle.baml
+E:\Git\Sudoku_Solver_Generator_2022\SUDOKUcore_project_simple\SUDOKUcore\obj\x64\Release\net6.0-windows\Styles\DataGridStyle.baml
+E:\Git\Sudoku_Solver_Generator_2022\SUDOKUcore_project_simple\SUDOKUcore\obj\x64\Release\net6.0-windows\Styles\ListBoxStyle.baml
+E:\Git\Sudoku_Solver_Generator_2022\SUDOKUcore_project_simple\SUDOKUcore\obj\x64\Release\net6.0-windows\Styles\ListBoxStyle1.baml
+E:\Git\Sudoku_Solver_Generator_2022\SUDOKUcore_project_simple\SUDOKUcore\obj\x64\Release\net6.0-windows\Styles\ListBoxStyle2.baml
+E:\Git\Sudoku_Solver_Generator_2022\SUDOKUcore_project_simple\SUDOKUcore\obj\x64\Release\net6.0-windows\Styles\TabControlStyle.baml
+E:\Git\Sudoku_Solver_Generator_2022\SUDOKUcore_project_simple\SUDOKUcore\obj\x64\Release\net6.0-windows\Styles\TextBlockStyle.baml
+E:\Git\Sudoku_Solver_Generator_2022\SUDOKUcore_project_simple\SUDOKUcore\obj\x64\Release\net6.0-windows\00 ApplicationMain\002 NuPz_Window.g.cs
+E:\Git\Sudoku_Solver_Generator_2022\SUDOKUcore_project_simple\SUDOKUcore\obj\x64\Release\net6.0-windows\00 ApplicationMain\014 SDK_PuzzlePrinter.g.cs
+E:\Git\Sudoku_Solver_Generator_2022\SUDOKUcore_project_simple\SUDOKUcore\obj\x64\Release\net6.0-windows\02 Library Class\G_Control\NumericUpDown.g.cs
+E:\Git\Sudoku_Solver_Generator_2022\SUDOKUcore_project_simple\SUDOKUcore\obj\x64\Release\net6.0-windows\10 Graphics\11 WPFColorPickerLib\30 VisualPrint\PreviewWindow.g.cs
+E:\Git\Sudoku_Solver_Generator_2022\SUDOKUcore_project_simple\SUDOKUcore\obj\x64\Release\net6.0-windows\10 Graphics\11 WPFColorPickerLib\ColorDialog.g.cs
+E:\Git\Sudoku_Solver_Generator_2022\SUDOKUcore_project_simple\SUDOKUcore\obj\x64\Release\net6.0-windows\10 Graphics\11 WPFColorPickerLib\ColorPicker.g.cs
+E:\Git\Sudoku_Solver_Generator_2022\SUDOKUcore_project_simple\SUDOKUcore\obj\x64\Release\net6.0-windows\App.g.cs
+E:\Git\Sudoku_Solver_Generator_2022\SUDOKUcore_project_simple\SUDOKUcore\obj\x64\Release\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+E:\Git\Sudoku_Solver_Generator_2022\SUDOKUcore_project_simple\SUDOKUcore\obj\x64\Release\net6.0-windows\SUDOKU_Regular_MarkupCompile.cache
+E:\Git\Sudoku_Solver_Generator_2022\SUDOKUcore_project_simple\SUDOKUcore\obj\x64\Release\net6.0-windows\SUDOKU_Regular_MarkupCompile.lref
+E:\Git\Sudoku_Solver_Generator_2022\SUDOKUcore_project_simple\SUDOKUcore\obj\x64\Release\net6.0-windows\00 ApplicationMain\002 NuPz_Window.baml
+E:\Git\Sudoku_Solver_Generator_2022\SUDOKUcore_project_simple\SUDOKUcore\obj\x64\Release\net6.0-windows\02 Library Class\G_Control\NumericUpDown.baml
+E:\Git\Sudoku_Solver_Generator_2022\SUDOKUcore_project_simple\SUDOKUcore\obj\x64\Release\net6.0-windows\10 Graphics\11 WPFColorPickerLib\ColorDialog.baml
+E:\Git\Sudoku_Solver_Generator_2022\SUDOKUcore_project_simple\SUDOKUcore\obj\x64\Release\net6.0-windows\SUDOKU_Regular.g.resources
+E:\Git\Sudoku_Solver_Generator_2022\SUDOKUcore_project_simple\SUDOKUcore\obj\x64\Release\net6.0-windows\GNPXcore.Properties.Resources.resources
+E:\Git\Sudoku_Solver_Generator_2022\SUDOKUcore_project_simple\SUDOKUcore\obj\x64\Release\net6.0-windows\GNPXcore.Properties.Resources.ja-JP.resources
+E:\Git\Sudoku_Solver_Generator_2022\SUDOKUcore_project_simple\SUDOKUcore\obj\x64\Release\net6.0-windows\SUDOKU_Proj.csproj.GenerateResource.cache
+E:\Git\Sudoku_Solver_Generator_2022\SUDOKUcore_project_simple\SUDOKUcore\obj\x64\Release\net6.0-windows\SUDOKU_Proj.GeneratedMSBuildEditorConfig.editorconfig
+E:\Git\Sudoku_Solver_Generator_2022\SUDOKUcore_project_simple\SUDOKUcore\obj\x64\Release\net6.0-windows\SUDOKU_Proj.AssemblyInfoInputs.cache
+E:\Git\Sudoku_Solver_Generator_2022\SUDOKUcore_project_simple\SUDOKUcore\obj\x64\Release\net6.0-windows\SUDOKU_Proj.AssemblyInfo.cs
+E:\Git\Sudoku_Solver_Generator_2022\SUDOKUcore_project_simple\SUDOKUcore\obj\x64\Release\net6.0-windows\SUDOKU_Proj.csproj.CoreCompileInputs.cache
+E:\Git\Sudoku_Solver_Generator_2022\SUDOKUcore_project_simple\SUDOKUcore\obj\x64\Release\net6.0-windows\ja-JP\SUDOKU_Regular.resources.dll
+E:\Git\Sudoku_Solver_Generator_2022\SUDOKUcore_project_simple\SUDOKUcore\obj\x64\Release\net6.0-windows\SUDOKU_Regular.dll
+E:\Git\Sudoku_Solver_Generator_2022\SUDOKUcore_project_simple\SUDOKUcore\obj\x64\Release\net6.0-windows\ref\SUDOKU_Regular.dll
+E:\Git\Sudoku_Solver_Generator_2022\SUDOKUcore_project_simple\SUDOKUcore\obj\x64\Release\net6.0-windows\SUDOKU_Regular.pdb
+E:\Git\Sudoku_Solver_Generator_2022\SUDOKUcore_project_simple\SUDOKUcore\obj\x64\Release\net6.0-windows\SUDOKU_Proj.genruntimeconfig.cache

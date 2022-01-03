@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mh8ZuXfEmR1veISGrp7bHBEFYXyVnm+00EMFR0ALeGFuG5RA6g3i4sOh+PNjA7DyxQyqhwvOhkOn9RUgHvZWIg==",
+  "success": true,
+  "projectFilePath": "E:\\Git\\Sudoku_Solver_Generator_2022\\SUDOKUcore_project\\SUDOKUcore\\SUDOKU_Proj.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gkats\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\3.3.2\\microsoft.codeanalysis.analyzers.3.3.2.nupkg.sha512"
+  ],
+  "logs": []
+}

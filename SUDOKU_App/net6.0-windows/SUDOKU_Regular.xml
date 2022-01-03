@@ -1,0 +1,819 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SUDOKU_Regular</name>
+    </assembly>
+    <members>
+        <member name="T:GNPXcore.NuPz_Win">
+            <summary>
+            NuPz_Win
+            </summary>
+        </member>
+        <member name="M:GNPXcore.NuPz_Win.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:GNPXcore.ExtendResultWin">
+            <summary>
+            ExtendResultWin
+            </summary>
+        </member>
+        <member name="M:GNPXcore.ExtendResultWin.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:GNPXcore.DevelopWin">
+            <summary>
+            DevelopWin
+            </summary>
+        </member>
+        <member name="M:GNPXcore.DevelopWin.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:GNPXcore.SDK_PuzzlePrinter">
+            <summary>
+            SDK_PuzzlePrinter
+            </summary>
+        </member>
+        <member name="M:GNPXcore.SDK_PuzzlePrinter.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:GNPXcore.Properties.Resources">
+            <summary>
+              ローカライズされた文字列などを検索するための、厳密に型指定されたリソース クラスです。
+            </summary>
+        </member>
+        <member name="P:GNPXcore.Properties.Resources.ResourceManager">
+            <summary>
+              このクラスで使用されているキャッシュされた ResourceManager インスタンスを返します。
+            </summary>
+        </member>
+        <member name="P:GNPXcore.Properties.Resources.Culture">
+            <summary>
+              すべてについて、現在のスレッドの CurrentUICulture プロパティをオーバーライドします
+              現在のスレッドの CurrentUICulture プロパティをオーバーライドします。
+            </summary>
+        </member>
+        <member name="P:GNPXcore.Properties.Resources.btnCopyBitmap">
+            <summary>
+              Bitmap Copy に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:GNPXcore.Properties.Resources.btnCreateProblemMlt">
+            <summary>
+              Create Puzzle に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:GNPXcore.Properties.Resources.btnDefaultSettings">
+            <summary>
+              Default Setting に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:GNPXcore.Properties.Resources.btnHomePage">
+            <summary>
+              HomePage に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:GNPXcore.Properties.Resources.btnInitialState">
+            <summary>
+              Initial State に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:GNPXcore.Properties.Resources.btnMethodCheck">
+            <summary>
+              Check に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:GNPXcore.Properties.Resources.btnMethodClear">
+            <summary>
+              Clear に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:GNPXcore.Properties.Resources.btnMultiSolve">
+            <summary>
+              Multi Solve に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:GNPXcore.Properties.Resources.btnNomalize">
+            <summary>
+              Standardization に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:GNPXcore.Properties.Resources.btnNumChange">
+            <summary>
+              Change に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:GNPXcore.Properties.Resources.btnNumChangeFix">
+            <summary>
+              Fix に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:GNPXcore.Properties.Resources.btnOpenPuzzleFile">
+            <summary>
+              Open Puzzle File に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:GNPXcore.Properties.Resources.btnPatternAutoGen">
+            <summary>
+              Pattern に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:GNPXcore.Properties.Resources.btnPatternCapture">
+            <summary>
+              Pattern Capture に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:GNPXcore.Properties.Resources.btnPatternClear">
+            <summary>
+              Clear に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:GNPXcore.Properties.Resources.btnProbNxt">
+            <summary>
+              Next に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:GNPXcore.Properties.Resources.btnProbPre">
+            <summary>
+              Pre に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:GNPXcore.Properties.Resources.btnSaveBitmap">
+            <summary>
+              Bitmap Save に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:GNPXcore.Properties.Resources.btnSavePuzzle">
+            <summary>
+              Save Puzzle に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:GNPXcore.Properties.Resources.btnSaveToFavorites">
+            <summary>
+              Save to favorites に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:GNPXcore.Properties.Resources.btnSolve">
+            <summary>
+              Solve に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:GNPXcore.Properties.Resources.btnSolveUp">
+            <summary>
+              Solve Up に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:GNPXcore.Properties.Resources.btnTransEst">
+            <summary>
+              Save に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:GNPXcore.Properties.Resources.btnTransLRg">
+            <summary>
+              horizontal に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:GNPXcore.Properties.Resources.btnTransRes">
+            <summary>
+              to Beginning に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:GNPXcore.Properties.Resources.btnTransRtg">
+            <summary>
+              Clockwise に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:GNPXcore.Properties.Resources.btnTransUDg">
+            <summary>
+              Vertical に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:GNPXcore.Properties.Resources.btnUndo">
+            <summary>
+              Undo に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:GNPXcore.Properties.Resources.chbAddAlgorithmList">
+            <summary>
+              Add Algorithm List に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:GNPXcore.Properties.Resources.chbAdditionalSave">
+            <summary>
+              Additional Save if file exist に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:GNPXcore.Properties.Resources.chbChangeBasicPattenOnSuccess">
+            <summary>
+              Change Basic Pattern on Success に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:GNPXcore.Properties.Resources.chbConfirmMultipleCells">
+            <summary>
+              Confirm multiple cells に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:GNPXcore.Properties.Resources.chbFileOutputOnSuccess">
+            <summary>
+              File Output on Success に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:GNPXcore.Properties.Resources.chbFormatLine">
+            <summary>
+              Format : Line type に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:GNPXcore.Properties.Resources.chbInitialState">
+            <summary>
+              Set Initial State に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:GNPXcore.Properties.Resources.chbNrmlNum">
+            <summary>
+              show Solution に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:GNPXcore.Properties.Resources.chbRandomizingNumbers">
+            <summary>
+              Randomizing Numbers に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:GNPXcore.Properties.Resources.chbSaveWithAnswer">
+            <summary>
+              Save with Answer に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:GNPXcore.Properties.Resources.chbSetAnswer">
+            <summary>
+              Set Solution に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:GNPXcore.Properties.Resources.chbSetDifficulty">
+            <summary>
+              Set Difficulty に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:GNPXcore.Properties.Resources.chbShowCandidate">
+            <summary>
+              Show Candidate に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:GNPXcore.Properties.Resources.chbShowNoUsedDigits">
+            <summary>
+              Show noused digits に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:GNPXcore.Properties.Resources.chbShowSolution">
+            <summary>
+              Show Solution に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:GNPXcore.Properties.Resources.chbSortByDiffOrder">
+            <summary>
+              Sort by Difficulty Order に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:GNPXcore.Properties.Resources.chbWhiteBack">
+            <summary>
+              White Back に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:GNPXcore.Properties.Resources.filePuzzleFile">
+            <summary>
+              Puzzle File に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:GNPXcore.Properties.Resources.fldSuDoKuImages">
+            <summary>
+              SuDoKu Images に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:GNPXcore.Properties.Resources.gbxMSearchCondition">
+            <summary>
+              Search Condition に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:GNPXcore.Properties.Resources.GenLS_turbo">
+            <summary>
+              Omit multiple candidates に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:GNPXcore.Properties.Resources.lblAlgorithmM">
+            <summary>
+              Algorithm に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:GNPXcore.Properties.Resources.lblAllSearchOption">
+            <summary>
+              All Search Option に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:GNPXcore.Properties.Resources.lblALSSizeMax">
+            <summary>
+              Max. Size に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:GNPXcore.Properties.Resources.lblAnalysisLevel">
+            <summary>
+              Analysis Level に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:GNPXcore.Properties.Resources.lblAppliedCount">
+            <summary>
+              Count に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:GNPXcore.Properties.Resources.lblBasicPattern">
+            <summary>
+              Basic Pattern: に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:GNPXcore.Properties.Resources.lblCellsPuzzle">
+            <summary>
+              Puzzle に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:GNPXcore.Properties.Resources.lblCellsSolved">
+            <summary>
+              Solved に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:GNPXcore.Properties.Resources.lblChangeNumber">
+            <summary>
+              Change Number に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:GNPXcore.Properties.Resources.lblClickOnNumber">
+            <summary>
+              Click on number に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:GNPXcore.Properties.Resources.lblCreateEdit">
+            <summary>
+              Create / Edit に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:GNPXcore.Properties.Resources.lblDifficulty">
+            <summary>
+              difficulty に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:GNPXcore.Properties.Resources.lblDifficultyM">
+            <summary>
+              Difficulty に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:GNPXcore.Properties.Resources.lblElapsedTime">
+            <summary>
+              Elapsed Time: に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:GNPXcore.Properties.Resources.lblEpapsedTimeTS3">
+            <summary>
+              Elapsed time: に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:GNPXcore.Properties.Resources.lblForceChainType">
+            <summary>
+              Type に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:GNPXcore.Properties.Resources.lblGenLogMaxRank">
+            <summary>
+              Max. Rank に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:GNPXcore.Properties.Resources.lblGenLogMaxSize">
+            <summary>
+              Max. Size に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:GNPXcore.Properties.Resources.lblGNLType">
+            <summary>
+              Type に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:GNPXcore.Properties.Resources.lblMaxAlgorithm">
+            <summary>
+              Algorithm に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:GNPXcore.Properties.Resources.lblMaxAllAlgorithm">
+            <summary>
+              All Algorithm に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:GNPXcore.Properties.Resources.LblMaximum">
+            <summary>
+              Maximum に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:GNPXcore.Properties.Resources.LblMaxLevel">
+            <summary>
+              Level に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:GNPXcore.Properties.Resources.lblMaxTime">
+            <summary>
+              Time に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:GNPXcore.Properties.Resources.LblMethod">
+            <summary>
+              Method に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:GNPXcore.Properties.Resources.lblMethodAndOrder">
+            <summary>
+              Method And Order に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:GNPXcore.Properties.Resources.lblMethodSetting">
+            <summary>
+              Method is set by Solve/Method に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:GNPXcore.Properties.Resources.lblMinimum">
+            <summary>
+              Minimum に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:GNPXcore.Properties.Resources.lblNLMaxSize">
+            <summary>
+              Max. Size に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:GNPXcore.Properties.Resources.lblNoOfCells">
+            <summary>
+              Cells:  に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:GNPXcore.Properties.Resources.lblNoOfPuzzles">
+            <summary>
+              Puzzles: に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:GNPXcore.Properties.Resources.lblNoOfTrials">
+            <summary>
+              Trials: に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:GNPXcore.Properties.Resources.lblNoOfTrialsCanceled">
+            <summary>
+              Canceled に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:GNPXcore.Properties.Resources.lblNoOfTrialsCum">
+            <summary>
+              cum. Trials: に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:GNPXcore.Properties.Resources.lblPattern">
+            <summary>
+              Pattern に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:GNPXcore.Properties.Resources.lblPuzzle">
+            <summary>
+              Puzzle に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:GNPXcore.Properties.Resources.lblPuzzleCreationType">
+            <summary>
+              Puzzle Creation Type に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:GNPXcore.Properties.Resources.lblPuzzleCreationType2">
+            <summary>
+              (0: Standard 1: High speed 2:Exhaustive search ) に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:GNPXcore.Properties.Resources.lblPuzzleLevel">
+            <summary>
+              Problem Level: に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:GNPXcore.Properties.Resources.lblRandomNumberSeed">
+            <summary>
+              Random Seed に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:GNPXcore.Properties.Resources.lblSaveAll">
+            <summary>
+              Save all に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:GNPXcore.Properties.Resources.lblSaveCurrentPuzzle">
+            <summary>
+              Save current puzzle に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:GNPXcore.Properties.Resources.lblSeedSetting">
+            <summary>
+              (0:Auto 0&gt;:seed Seting) に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:GNPXcore.Properties.Resources.lblStep">
+            <summary>
+              Step に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:GNPXcore.Properties.Resources.lblStepM">
+            <summary>
+              Step に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:GNPXcore.Properties.Resources.lblTransAsymetric">
+            <summary>
+              Transformation(Asymmetric) に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:GNPXcore.Properties.Resources.lblTransSymetric">
+            <summary>
+              Transformation(Symmetric) に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:GNPXcore.Properties.Resources.lblUnderAnalysis">
+            <summary>
+              under Analysis に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:GNPXcore.Properties.Resources.lvlCellsUnsolved">
+            <summary>
+              UnSolved に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:GNPXcore.Properties.Resources.msgAnalysisComplate">
+            <summary>
+              Analysis completed に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:GNPXcore.Properties.Resources.msgNoSolution">
+            <summary>
+              There are cells with no candidate digits に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:GNPXcore.Properties.Resources.msgSuspend">
+            <summary>
+              Suspend に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:GNPXcore.Properties.Resources.msgUpperLimitBreak">
+            <summary>
+              Upper Limit Break に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:GNPXcore.Properties.Resources.msgUpperLimitTimeBreak">
+            <summary>
+              Upper Limit Time Break に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:GNPXcore.Properties.Resources.patSel00">
+            <summary>
+              No Symmetry に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:GNPXcore.Properties.Resources.patSel01">
+            <summary>
+              Point Symmetry (90 degrees) に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:GNPXcore.Properties.Resources.patSel02">
+            <summary>
+              Point Symmetry (180 degrees) に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:GNPXcore.Properties.Resources.patSel03">
+            <summary>
+              Line Symmetry (vertical) に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:GNPXcore.Properties.Resources.patSel04">
+            <summary>
+              Line Symmetry (horizontal) に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:GNPXcore.Properties.Resources.patSel05">
+            <summary>
+              Line Symmetry (lower right) に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:GNPXcore.Properties.Resources.patSel06">
+            <summary>
+              Line Symmetry (upper right) に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:GNPXcore.Properties.Resources.tabACreate">
+            <summary>
+              Create に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:GNPXcore.Properties.Resources.tabAFile">
+            <summary>
+              File に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:GNPXcore.Properties.Resources.tabAHomepage">
+            <summary>
+              HomePage に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:GNPXcore.Properties.Resources.tabAOption">
+            <summary>
+              Option に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:GNPXcore.Properties.Resources.tabASolve">
+            <summary>
+              Solve に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:GNPXcore.Properties.Resources.tabATransform">
+            <summary>
+              Transform に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:GNPXcore.Properties.Resources.tabAuto">
+            <summary>
+              Auto に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:GNPXcore.Properties.Resources.tabBMethod">
+            <summary>
+              Method に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:GNPXcore.Properties.Resources.tabBMethodOption">
+            <summary>
+              Method Option に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:GNPXcore.Properties.Resources.tabBMultiSolve">
+            <summary>
+              MultiSolve に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:GNPXcore.Properties.Resources.tabBSolve">
+            <summary>
+              Solve に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:GNPXcore.Properties.Resources.tabManual">
+            <summary>
+              Manual に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="T:GIDOO_space.NumericUpDown">
+            <summary>
+            NumericUpDown
+            </summary>
+        </member>
+        <member name="M:GIDOO_space.NumericUpDown.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="M:VisualPrint.Helper.DeobfuscateData(System.Byte[],System.String)">
+            <summary>
+            Deobfuscate ODTTF
+            </summary>
+            <param name="fontData"></param>
+            <param name="guid"></param>
+        </member>
+        <member name="T:VisualPrint.PreviewWindow">
+            <summary>
+            Interaction logic for Window1.xaml
+            </summary>
+            <summary>
+            PreviewWindow
+            </summary>
+        </member>
+        <member name="M:VisualPrint.PreviewWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:WPFColorPickerLib.ColorDialog">
+            <summary>
+            ColorDialog
+            </summary>
+        </member>
+        <member name="M:WPFColorPickerLib.ColorDialog.Window_KeyDown(System.Object,System.Windows.Input.KeyEventArgs)">
+            <summary>
+            Closes the dialog on Enter key pressed
+            </summary>
+        </member>
+        <member name="M:WPFColorPickerLib.ColorDialog.btnOk_Click(System.Object,System.Windows.RoutedEventArgs)">
+            <summary>
+            User is happy with choice
+            </summary>
+        </member>
+        <member name="M:WPFColorPickerLib.ColorDialog.btnCancel_Click(System.Object,System.Windows.RoutedEventArgs)">
+            <summary>
+            User is not happy with choice
+            </summary>
+        </member>
+        <member name="M:WPFColorPickerLib.ColorDialog.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:WPFColorPickerLib.ColorPicker">
+            <summary>
+            A simple WPF color picker. The basic idea is to
+            ise a Color swatch image and then pick out a single
+            pixel and use that pixels RGB values along with theGNPXproj303
+            Alpha slider to form a SelectedColor.
+            
+            This class borrows an idea or two from the following source(s)
+            
+            AlphaSlider, and Preview box
+            Based on an article by ShawnVN's Blog
+            http://weblogs.asp.net/savanness/archive/2006/12/05/colorcomb-yet-another-color-picker-dialog-for-wpf.aspx
+            
+            1*1 pixel copy
+            Based on an article by Lee Brimelow 
+            http://thewpfblog.com/?p=62
+            </summary>
+            <summary>
+            ColorPicker
+            </summary>
+        </member>
+        <member name="P:WPFColorPickerLib.ColorPicker.SelectedColor">
+            <summary>
+            gets or privately sets the selected
+            Color. When the Color is set 
+            the CreateAlphaLinearBrush()/UpdateTextBoxes()
+            and UpdateInk() methods are called
+            </summary>
+        </member>
+        <member name="M:WPFColorPickerLib.ColorPicker.ColorPicker_Loaded(System.Object,System.Windows.RoutedEventArgs)">
+            <summary>
+            Start with a default Color of black
+            </summary>
+        </member>
+        <member name="M:WPFColorPickerLib.ColorPicker.CreateAlphaLinearBrush">
+            <summary>
+            Creates a new LinearGradientBrush background for the
+            Alpha area slider. This is based on the current color
+            </summary>
+        </member>
+        <member name="M:WPFColorPickerLib.ColorPicker.Swatch_MouseLeftButtonDown(System.Object,System.Windows.Input.MouseButtonEventArgs)">
+            <summary>
+            apply the new Swatch image based on user requested swatch
+            </summary>
+        </member>
+        <member name="M:WPFColorPickerLib.ColorPicker.CanvImage_MouseMove(System.Object,System.Windows.Input.MouseEventArgs)">
+            <summary>
+            Simply grab a 1*1 pixel from the current color image, and
+            use that and copy the new 1*1 image pixels to a byte array and
+            then construct a Color from that.
+            </summary>
+        </member>
+        <member name="M:WPFColorPickerLib.ColorPicker.UpdateTextBoxes">
+            <summary>
+            Update text box values based on SelectedColor
+            </summary>
+        </member>
+        <member name="M:WPFColorPickerLib.ColorPicker.UpdateInk">
+            <summary>
+            Updates Ink stroked based on SelectedColor
+            </summary>
+        </member>
+        <member name="M:WPFColorPickerLib.ColorPicker.AlphaSlider_ValueChanged(System.Object,System.Windows.RoutedPropertyChangedEventArgs{System.Double})">
+            <summary>
+            Update SelectedColor Aplha based on Slider value
+            </summary>
+        </member>
+        <member name="M:WPFColorPickerLib.ColorPicker.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:SUDOKUcore.App">
+            <summary>
+            Interaction logic for App.xaml
+            </summary>
+            <summary>
+            App
+            </summary>
+        </member>
+        <member name="M:SUDOKUcore.App.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="M:SUDOKUcore.App.Main">
+            <summary>
+            Application Entry Point.
+            </summary>
+        </member>
+    </members>
+</doc>
