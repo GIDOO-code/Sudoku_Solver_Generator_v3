@@ -1,3 +1,8 @@
+# Contents of Updated
+1) Added comments to the source code.
+2) This is good for learning Sudoku programs.
+3) Easy to convert from simple to regular version.
+
 # Sudoku_Solver_Generator
 ![GNPX](/images/GNPX_start.png)
 
