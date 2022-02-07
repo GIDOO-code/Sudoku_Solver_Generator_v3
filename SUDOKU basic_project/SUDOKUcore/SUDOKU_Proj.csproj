@@ -1,0 +1,91 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWPF>true</UseWPF>
+    <RootNamespace>GNPXcore</RootNamespace>
+    <Platforms>AnyCPU;x64</Platforms>
+    <BaseOutputPath>E:\◆◆数独集合体\■■SuDoKu21 EnglishCore\SUDOKUcore_project\SUDOKU_App</BaseOutputPath>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <OutputPath>E:\◆◆数独集合体\■■SuDoKu22 EnglishCoreSimple\SUDOKUcore_project\SUDOKU_App\</OutputPath>
+    <DefineConstants>BasicVersion</DefineConstants>
+    <PlatformTarget>x64</PlatformTarget>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <OutputPath>E:\◆◆数独集合体\■■SuDoKu21 EnglishCore\SUDOKU_App\</OutputPath>
+    <DefineConstants>xNKLdef</DefineConstants>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+    <OutputPath>..\..\SUDOKU_App\netcoreapp3.1</OutputPath>
+    <PlatformTarget>x64</PlatformTarget>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <OutputPath>..\..\SUDOKU_App\netcoreapp3.1</OutputPath>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="00Ex ApplicationMain\**" />
+    <Compile Remove="20 SuDoKu_Ver2.2\21 GNPX_AnalyzerSubClass\23Ex GNPX_Analyzer_SuperLink\**" />
+    <Compile Remove="20 SuDoKu_Ver2.2\21Ex GNPX_AnalyzerSubClass\**" />
+    <Compile Remove="20 SuDoKu_Ver2.2\23Ex GNPX_Analyzer_SuperLink\**" />
+    <Compile Remove="20 SuDoKu_Ver2.2\25Ex GNPX_analyzer\**" />
+    <EmbeddedResource Remove="00Ex ApplicationMain\**" />
+    <EmbeddedResource Remove="20 SuDoKu_Ver2.2\21 GNPX_AnalyzerSubClass\23Ex GNPX_Analyzer_SuperLink\**" />
+    <EmbeddedResource Remove="20 SuDoKu_Ver2.2\21Ex GNPX_AnalyzerSubClass\**" />
+    <EmbeddedResource Remove="20 SuDoKu_Ver2.2\23Ex GNPX_Analyzer_SuperLink\**" />
+    <EmbeddedResource Remove="20 SuDoKu_Ver2.2\25Ex GNPX_analyzer\**" />
+    <None Remove="00Ex ApplicationMain\**" />
+    <None Remove="20 SuDoKu_Ver2.2\21 GNPX_AnalyzerSubClass\23Ex GNPX_Analyzer_SuperLink\**" />
+    <None Remove="20 SuDoKu_Ver2.2\21Ex GNPX_AnalyzerSubClass\**" />
+    <None Remove="20 SuDoKu_Ver2.2\23Ex GNPX_Analyzer_SuperLink\**" />
+    <None Remove="20 SuDoKu_Ver2.2\25Ex GNPX_analyzer\**" />
+    <Page Remove="00Ex ApplicationMain\**" />
+    <Page Remove="20 SuDoKu_Ver2.2\21 GNPX_AnalyzerSubClass\23Ex GNPX_Analyzer_SuperLink\**" />
+    <Page Remove="20 SuDoKu_Ver2.2\21Ex GNPX_AnalyzerSubClass\**" />
+    <Page Remove="20 SuDoKu_Ver2.2\23Ex GNPX_Analyzer_SuperLink\**" />
+    <Page Remove="20 SuDoKu_Ver2.2\25Ex GNPX_analyzer\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Remove="00 ApplicationMain\002h NuPz_CameraInput.cs" />
+    <Compile Remove="00 ApplicationMain\002x NuPz_Window.xaml.cs" />
+    <Compile Remove="02 Library Class\jewelyBox4WPF.cs" />
+    <Compile Remove="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="02 Library Class\G_Control\ImgDown.png" />
+    <None Remove="02 Library Class\G_Control\ImgUp.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Page Remove="00 ApplicationMain\002x NuPz_Window.xaml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="..\.editorconfig" Link=".editorconfig" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.CodeAnalysis.Analyzers" Version="3.3.2">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="02 Library Class\G_Control\ImgDown.png" />
+    <Resource Include="02 Library Class\G_Control\ImgUp.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="20 SuDoKu_Ver2.2\23 GNPX_AnalyzerSubClass\" />
+  </ItemGroup>
+
+</Project>

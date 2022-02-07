@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = netcoreapp3.1
+build_property.TargetPlatformMinVersion = 7.0
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.PublishSingleFile = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = GNPXcore
+build_property.ProjectDir = E:\◆◆数独集合体\■■SuDoKu22 EnglishCoreSimple\SUDOKUcore_project\20211001 SUDOKUcore2_project\SUDOKUcore\
