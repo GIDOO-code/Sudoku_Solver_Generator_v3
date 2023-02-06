@@ -1,3 +1,6 @@
+#A major renovation will be completed soon.
+　　Scheduled for the end of February.
+
 # Contents of Updated
 1) Added comments to the source code.
 2) Create a version of the basic algorithm. This is good for learning Sudoku programs.
