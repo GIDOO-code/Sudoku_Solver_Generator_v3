@@ -1,5 +1,6 @@
-#A major renovation will be completed soon.
+# A major renovation will be completed soon.
 　　Scheduled for the end of February.
+  
 
 # Contents of Updated
 1) Added comments to the source code.
