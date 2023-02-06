@@ -2,10 +2,7 @@
 　　Scheduled for the end of February 2023.
   
 
-# Contents of Updated
-1) Added comments to the source code.
-2) Create a version of the basic algorithm. This is good for learning Sudoku programs.
-   Easy to convert from Simple to Regular version.
+
 
 # Sudoku_Solver_Generator
 ![GNPX](/images/GNPX_start.png)
