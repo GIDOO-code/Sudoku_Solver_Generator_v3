@@ -1,5 +1,5 @@
-# A major renovation will be completed soon!
-　　Scheduled for the end of February.
+# A major renovation will be completed soon !
+　　Scheduled for the end of February 2023.
   
 
 # Contents of Updated
