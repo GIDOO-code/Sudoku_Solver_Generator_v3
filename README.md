@@ -1,5 +1,5 @@
 # A major renovation will be completed soon !
-　　Scheduled for the end of April 2023.
+　　Scheduled for the end of April 2023. A beta version will be released soon.
   
 
 
