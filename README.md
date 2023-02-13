@@ -1,5 +1,5 @@
 # A major renovation will be completed soon !
-　　Scheduled for the end of February 2023.
+　　Scheduled for the end of April 2023.
   
 
 
