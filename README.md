@@ -19,8 +19,8 @@ The algorithm used is
 There are also functions for transposed transformation of Sudoku problems, standardization and ordering of Sudoku problems.  
 
 The algorithm is explained on the HTML page.  
-https://gidoo-code.github.io/Sudoku_Solver_Generator/<br>
-https://gidoo-code.github.io/Sudoku_Solver_Generator_jp/
+https://gidoo-code.github.io/Sudoku_Solver_Generator_v4/<br>
+https://gidoo-code.github.io/Sudoku_Solver_Generator_v4_jp/
 
 
 
